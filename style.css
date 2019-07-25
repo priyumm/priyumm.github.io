@@ -70,6 +70,11 @@ html, body{
 .gif{
   max-width: 100%;
 }
+.card{
+  width: 100%;
+  height: 50%;
+  margin-left: 15rem;
+}
 .social a{
   font-size: 4.5em;
   padding: 3rem;
